@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="20dp"
+        android:background="@drawable/avatar_showman"
+        android:contentDescription="@string/friends_image" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="31dp"
+        android:layout_toEndOf="@id/avatar"
+        android:fontFamily="@font/roboto_light"
+        android:text="Karen Stewart"
+        android:textColor="@color/coral"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="3dp"
+        android:layout_toEndOf="@id/avatar"
+        android:fontFamily="@font/roboto_light"
+        android:text="New York, USA"
+        android:textColor="@color/warm_gray"
+        android:textSize="12sp" />
+
+</RelativeLayout>

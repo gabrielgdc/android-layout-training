@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AppLayoutTraining</string>
+
+    <string name="title">Material Design\nUI Kit Freebie</string>
+    <string name="subtitle">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+    <string name="signup">SIGN UP</string>
+    <string name="login">LOG IN</string>
+    <string name="profile_title">PROFILE</string>
+    <string name="user_image_description">User Image</string>
+    <string name="alt_logo_icon">Logo Icon</string>
+    <string name="about_title">About</string>
+    <string name="bigger_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tincidunt feugiat lorem ut tincidunt. Nulla pretium tincidunt arcu. Vivamus gravida mi fringilla orci tempor lacinia. Suspendisse faucibus ex laoreet ipsum consequat, ac dignissim libero egestas. Nullam tellus lacus, vulputate in neque vitae, feugiat semper felis. Pellentesque nec imperdiet ipsum, non lobortis ex. Nunc sollicitudin ante vel suscipit tempus. Donec feugiat nec ex et ornare. Aenean sit amet interdum erat. Vestibulum pulvinar rutrum erat at interdum.</string>
+    <string name="smaller_lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="user_city">New York, NY</string>
+    <string name="username">John Berger</string>
+    <string name="add_to_friends_button">ADD TO FRIENDS</string>
+    <string name="twitter_logo_description">Twitter Logo</string>
+    <string name="instagram_logo_description">Instagram Logo</string>
+    <string name="facebook_logo_description">Facebook Logo</string>
+    <string name="google_plus_logo_description">Google Plus Logo</string>
+    <string name="menu_button_description">Menu</string>
+    <string name="friends_image">Friend\'s Image</string>
+
+    <string name="post_name_example">Jordan Robinson</string>
+    <string name="post_time_example">Today, 1:45 PM</string>
+    <string name="list_text_example">The quick brown fox jumps over the lazy dog</string>
+    <string name="name_1_example">Brian Tucker</string>
+    <string name="name_2_example">Dennis Spencer</string>
+    <string name="name_3_example">Daniel Grant</string>
+    <string name="name_4_example">Heather Jacobs</string>
+    <string name="name_5_example">Brian</string>
+    <string name="name_6_example">Dennis</string>
+    <string name="name_7_example">Daniel</string>
+    <string name="name_8_example">Heather</string>
+    <string name="name_9_example">Gerald</string>
+    <string name="name_10_example">Walters </string>
+    <string name="name_11_example">Heather</string>
+    <string name="name_12_example">Ellis</string>
+    <string name="statistics_text">Statistics</string>
+    <string name="may">May</string>
+    <string name="april">Apr</string>
+    <string name="march">Mar</string>
+    <string name="february">Feb</string>
+    <string name="january">Jan</string>
+    <string name="graphic_description">Some statistic graphic</string>
+    <string name="feed_title">Feed</string>
+    <string name="dashboard_title">DASHBOARD</string>
+    <string name="post_image_description">Post Image Description</string>
+    <string name="three_dots_description">Three Dots Description</string>
+    <string name="list_title">LIST</string>
+    <string name="feed_example">The quick brown fox jumps over the lazy dog</string>
+    <string name="radio_title">RADIO</string>
+</resources>
